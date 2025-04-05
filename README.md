@@ -1,5 +1,4 @@
-![CSE Student](https://scontent.fzyl2-2.fna.fbcdn.net/v/t39.30808-6/487984688_1229252135390221_5071516858060405979_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=ytuUBFGxbMEQ7kNvwGOsno7&_nc_oc=AdnHxskJv5fJC8Ixy7wyGA5zyQciCJg3oQH7wku_jajfzfX_Kbg4f9fy9OR-YeD4_Bk&_nc_zt=23&_nc_ht=scontent.fzyl2-2.fna&_nc_gid=jqLkH_ubgQ1nzeHAr0MI8w&oh=00_AYH-6laGPX9U3egpl4ylaVA5fvZcL_qyKrnb6QByh7nEaA&oe=67F73636)
-
+![CSE Student](https://media.licdn.com/dms/image/v2/D4E16AQEH1olRWUvthA/profile-displaybackgroundimage-shrink_350_1400/B4EZYGsU5kGgAY-/0/1743869008346?e=1749081600&v=beta&t=DDdou2eHsxy5gfrpTW_M8_b29ETrXrwZcg6mmRMiOfs)
 
 # Hi there 👋, Myself MD.Shakibur Rahman
 ## CSE Student
